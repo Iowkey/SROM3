@@ -1,4 +1,21 @@
 # SROM_1_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public static int[,] MulMatrix()
         {
             int[,] lambda = new int[239, 239];
